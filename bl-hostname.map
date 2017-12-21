@@ -1,0 +1,4 @@
+/^p\dnlsmtp\d{2}\.shr\.prod\.phx3\.secureserver\.net$/i
+#/^a\d{1,2}-\d{2}\.smtp-out\.(amazonses|us-west-2)\.com$/i 0.7
+/^vm\d{4}\.vps\.agava\.net$/i
+/^cluster-[a-z]\.mailcontrol\.com$/i	# AS44444 Forcepoint Cloud
